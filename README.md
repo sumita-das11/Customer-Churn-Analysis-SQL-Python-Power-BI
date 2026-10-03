@@ -148,7 +148,7 @@ A **2-page interactive Power BI dashboard** with slicers for Monthly Charge Rang
 - Churn rate by state (top 7), payment method, contract, and internet type
 - Churn by services matrix (Unlimited Data, Streaming TV/Music/Movies, Premium Support, Phone Service, Paperless Billing)
 
-![Customer Churn Analysis Dashboard](images/dashboard_page1_churn_overview.png)
+![Customer Churn Analysis Dashboard](Images/Customer_Churn_Analysis.png)
 
 **Page 2 — Customer Risk Segmentation & Predictive Analysis**
 - KPI cards: 0.23 Avg Churn Probability | 3.43K Avg Revenue | 296.97K Revenue At Risk | 1.85% High Risk Revenue %
@@ -158,9 +158,8 @@ A **2-page interactive Power BI dashboard** with slicers for Monthly Charge Rang
 - Churn Probability vs. Monthly Charge scatter plot, colored by risk tier
 - Filters for Gender, State, Contract, and Payment Method
 
-![Customer Risk Segmentation Dashboard](images/dashboard_page2_risk_segmentation.png)
+![Customer Churn Segmentation & Predictive Analysis](Images/Customer_Churn_Segmentation_Predictive_Analysis.png)
 
----
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Clone the repository:
